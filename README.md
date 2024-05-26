@@ -44,3 +44,7 @@ Histogram Calculation
     printHistogram Function: This function, defined in the main program, prints the histogram of nucleotide frequencies.
 
 By following these instructions, you can compile and run the program to analyze DNA sequences in FASTA format, print the sequences, and calculate and display nucleotide frequency histograms.
+
+Run the Program in /build folder:
+./FastaProcessor ../input.fasta ../output.fasta
+
