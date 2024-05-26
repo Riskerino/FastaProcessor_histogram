@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FastaProcessor.dir/src/main.cpp.o CMakeFiles/FastaProcessor.dir/src/FastaFile.cpp.o CMakeFiles/FastaProcessor.dir/src/Sequence.cpp.o CMakeFiles/FastaProcessor.dir/src/FastaFormat.cpp.o -o FastaProcessor 
